@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **The DevSecOps as-a-Service platform: Continuous security, continuous monitoring, continuous compliance - HIPAA, SOC 2, ISO 27001**
 
-- 🌱 I’m currently learning **GoLang & Svelte**
+- 🌱 I’m currently exploring **GoLang & Svelte**
 
 - 📝 I regularly write articles on [https://medium.com/@jazimabbas](https://medium.com/@jazimabbas)
 
